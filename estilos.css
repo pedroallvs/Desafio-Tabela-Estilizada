@@ -1,0 +1,12 @@
+.cabecalho-moda{
+    background-color:  #BB86FC;
+    color: rgb(255, 255, 255);
+}
+.cabecalho-casa{
+    background-color:  #00C4B4;
+    color: rgb(255, 255, 255);
+}
+.corpo-moda , .corpo-casa {
+background-color:  #424250;
+color: rgb(255, 255, 255);
+}
